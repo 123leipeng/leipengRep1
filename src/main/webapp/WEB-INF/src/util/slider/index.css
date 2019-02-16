@@ -1,0 +1,19 @@
+/*
+* @Author: zhengquan
+* @Date:   2017-06-22 20:48:19
+* @Last Modified by:   zhengquan
+* @Last Modified time: 2017-06-22 23:00:34
+*/
+
+.banner {
+    position: relative;
+    overflow: auto;
+}
+
+.banner li {
+    list-style: none;
+}
+
+.banner ul li {
+    float: left;
+}
